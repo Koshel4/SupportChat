@@ -313,7 +313,6 @@ body {
     background: #7a5c53;
 }
 
-/* Анимации */
 @keyframes slideIn {
     from {
         transform: translateY(20px);
